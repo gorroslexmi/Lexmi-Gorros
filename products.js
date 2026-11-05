@@ -7,7 +7,7 @@
   4. Si todavía no sabes el precio, deja price: null.
 */
 const STORE_CONFIG = {
-  whatsapp: "", // Escribe el número de WhatsApp con código de país, solo números. México: 52 + número.
+  whatsapp: "+52 1 667 185 7780", // Escribe el número de WhatsApp con código de país, solo números. México: 52 + número.
   currency: "MXN",
   storeName: "Lexmi Gorros"
 };
